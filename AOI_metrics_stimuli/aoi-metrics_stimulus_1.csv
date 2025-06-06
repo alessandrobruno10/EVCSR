@@ -1,0 +1,5 @@
+Lp,Name,VAI,AvgTTFF,AvgTTFG,GazesAvgTimeSpent,Fixations,Gazes,Kcoefficient,AOITimeRange
+1,AI gen,82%,1.11s,0.73s,4.85s,585,9030,0.38,0.5s ‒ 10s
+2,AI_gen_3sec,80%,0.92s,0.62s,1.52s,171,2865,0.21,0.5s ‒ 3s
+3,Orig_3sec,60%,1.44s,1.33s,1s,117,1613,0.1,0.5s ‒ 3s
+4,Original,72%,2.47s,2.2s,3.31s,413,6219,0.15,0.5s ‒ 10s
